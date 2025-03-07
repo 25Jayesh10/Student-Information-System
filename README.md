@@ -169,11 +169,11 @@ This section describes the various user roles within the database system and the
 
 If you have any questions, feedback, or suggestions regarding the Student Information System project, please feel free to reach out to us:
 
-- **Malcolm Antão**  
-  Email: [malcolmantao164@gmail.com](mailto:malcolmantao164@gmail.com)  
-  
 - **P Jayesh Naidu**  
   GitHub: [25Jayesh10](https://github.com/25Jayesh10)
+  
+- **Malcolm Antão**  
+  Email: [malcolmantao164@gmail.com](mailto:malcolmantao164@gmail.com)  
 
 - **Nathania Baptista**  
   GitHub: [nathaniabaptista](https://github.com/nathaniabaptista)
