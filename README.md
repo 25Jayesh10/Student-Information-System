@@ -161,7 +161,7 @@ This section describes the various user roles within the database system and the
 - [Malcolm Antao](https://github.com/MalcolmAntao)
   -  Worked on the backend and frontend development, completing the entire student side of the project and contributing to the instructors' side.
 - [P Jayesh Naidu](https://github.com/25Jayesh10)
-  - Completed the entire admin side of the project, focusing on backend and frontend development.
+  - Completed the entire admin side of the project and contributed towards the instructors' side development and focusing on backend and frontend development.
 - [Nathania Baptista](https://github.com/nathaniabaptista)
   - Contributed to the frontend development and documentation, focusing primarily on the instructors' side.
 
